@@ -36,6 +36,6 @@ dependencies:
 - zlib=1.2.11=0
 - pip:
   - tweet-parser==1.0.7
-  -  "--editable=git+https://github.com/tw-ddis/Gnip-Python-Search-API-Utilities.git@refactor"
+  - "--editable=git+https://github.com/tw-ddis/Gnip-Python-Search-API-Utilities.git@refactor#egg=Gnip-Python-Search-API-Utilities-refactor"
 prefix: /Users/agonzales/anaconda3/envs/pandas_rst
 
