@@ -2,6 +2,7 @@ import requests
 
 import os
 import zipfile
+import pandas as pd
 
 def maybe_pull_airport_data():
     """
